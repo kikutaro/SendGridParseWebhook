@@ -1,0 +1,1 @@
+web: java -jar target/parse-0.0.1.jar
